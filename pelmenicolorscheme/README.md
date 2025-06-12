@@ -1,4 +1,35 @@
-# pelmenicolorscheme README
+# pelmenicolorscheme
+
+![alt text](image-9.png)
+
+A Modern and rich theme.
+
+## Pelmeni Theme Flat
+![alt text](image-3.png)
+
+## Pelmeni Theme
+![alt text](image.png)
+
+## Pelmeni Hub Theme
+![alt text](image-1.png)
+
+## Pelmeni Sea Theme
+![alt text](image-2.png)
+
+## Pelmeni Smaug Theme
+![alt text](image-4.png)
+
+## Pelmeni Carbon Theme
+![alt text](image-5.png)
+
+## Pelmeni Min Blue Theme
+![alt text](image-6.png)
+
+## Pelmeni Hub Light Theme
+![alt text](image-7.png)
+
+## Pelmeni Hub Bluish Theme
+![alt text](image-8.png)
 
 ## Working with Markdown
 
