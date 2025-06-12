@@ -1,0 +1,38 @@
+{
+  "name": "pelmenicolorscheme",
+  "displayName": "pelmeni",
+  "repository": "https://github.com/alexeev-prog/pelmeni-theme",
+  "description": "Eye-pleasing minimalistic theme",
+  "publisher": "alexeevdev",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pelmeni Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pelmeni Theme-color-theme.json"
+      },
+      {
+        "label": "Pelmeni Hub Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pelmeni Hub Theme-color-theme.json"
+      },
+      {
+        "label": "Pelmeni Hub Light Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pelmeni Hub Light Theme-color-theme.json"
+      },
+      {
+        "label": "Pelmeni Hub Bluish Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pelmeni Hub Bluish Theme-color-theme.json"
+      }
+    ]
+  }
+}
